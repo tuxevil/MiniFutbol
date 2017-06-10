@@ -1,0 +1,680 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MiniFutbol
+</name>
+</assembly>
+<members>
+<member name="F:MiniFutbol.Prueba.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.Prueba.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.Prueba.TextBox1">
+	<summary>
+TextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.Prueba.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.Prueba.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:MiniFutbol.Prueba">
+	<summary>
+Prueba class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbUsuario">
+	<summary>
+tbUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label16">
+	<summary>
+Label16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbContraseña">
+	<summary>
+tbContraseña control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label17">
+	<summary>
+Label17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbConfirmaContraseña">
+	<summary>
+tbConfirmaContraseña control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbEmail">
+	<summary>
+tbEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label19">
+	<summary>
+Label19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbConfirmaEmail">
+	<summary>
+tbConfirmaEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbNombre">
+	<summary>
+tbNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label21">
+	<summary>
+Label21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbApellidos">
+	<summary>
+tbApellidos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label22">
+	<summary>
+Label22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.clFechaNacimiento">
+	<summary>
+clFechaNacimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.ddlSexo">
+	<summary>
+ddlSexo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbDireccion">
+	<summary>
+tbDireccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbTelefono">
+	<summary>
+tbTelefono control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label23">
+	<summary>
+Label23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label12">
+	<summary>
+Label12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.tbCelular">
+	<summary>
+tbCelular control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.ddlPais">
+	<summary>
+ddlPais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label24">
+	<summary>
+Label24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label14">
+	<summary>
+Label14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.ddlCiudad">
+	<summary>
+ddlCiudad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label25">
+	<summary>
+Label25 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.ddlEquipo">
+	<summary>
+ddlEquipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.dsPais">
+	<summary>
+dsPais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.dsCiudad">
+	<summary>
+dsCiudad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm2.dsEquipo">
+	<summary>
+dsEquipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:MiniFutbol.WebForm2">
+	<summary>
+WebForm2 class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbUsuario">
+	<summary>
+lbUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbUsuario">
+	<summary>
+tbUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbPassword">
+	<summary>
+lbPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbPassword">
+	<summary>
+tbPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbConfirmaPassword">
+	<summary>
+lbConfirmaPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbConfirmaPassword">
+	<summary>
+tbConfirmaPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbEmail">
+	<summary>
+lbEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbEmail">
+	<summary>
+tbEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbConfirmaEmail">
+	<summary>
+lbConfirmaEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbConfirmaEmail">
+	<summary>
+tbConfirmaEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbNombre">
+	<summary>
+lbNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbNombre">
+	<summary>
+tbNombre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbApellidos">
+	<summary>
+lbApellidos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbApellidos">
+	<summary>
+tbApellidos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbFechaNacimiento">
+	<summary>
+lbFechaNacimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.clFechaNacimiento">
+	<summary>
+clFechaNacimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbDireccion">
+	<summary>
+lbDireccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbDireccion">
+	<summary>
+tbDireccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbTelefono">
+	<summary>
+lbTelefono control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbTelefono">
+	<summary>
+tbTelefono control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbCelular">
+	<summary>
+lbCelular control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.tbCelular">
+	<summary>
+tbCelular control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbPais">
+	<summary>
+lbPais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.ddlPais">
+	<summary>
+ddlPais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbCiudad">
+	<summary>
+lbCiudad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.ddlCiudad">
+	<summary>
+ddlCiudad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.lbEquipo">
+	<summary>
+lbEquipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.ddlEquipo">
+	<summary>
+ddlEquipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.dsPais">
+	<summary>
+dsPais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.dsCiudad">
+	<summary>
+dsCiudad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MiniFutbol.WebForm1.dsEquipo">
+	<summary>
+dsEquipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:MiniFutbol.WebForm1">
+	<summary>
+WebForm1 class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member>
+</members>
+</doc>
